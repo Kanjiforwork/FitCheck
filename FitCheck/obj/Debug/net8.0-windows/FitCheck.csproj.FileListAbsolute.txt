@@ -1,0 +1,17 @@
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\bin\Debug\net8.0-windows\FitCheck.exe
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\bin\Debug\net8.0-windows\FitCheck.deps.json
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\bin\Debug\net8.0-windows\FitCheck.runtimeconfig.json
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\bin\Debug\net8.0-windows\FitCheck.dll
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\bin\Debug\net8.0-windows\FitCheck.pdb
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.Form1.resources
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.csproj.GenerateResource.cache
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.AssemblyInfoInputs.cache
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.AssemblyInfo.cs
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.csproj.CoreCompileInputs.cache
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.sourcelink.json
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.dll
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\refint\FitCheck.dll
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.pdb
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.genruntimeconfig.cache
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\ref\FitCheck.dll
