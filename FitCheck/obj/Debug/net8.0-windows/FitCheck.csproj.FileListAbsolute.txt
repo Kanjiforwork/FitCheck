@@ -16,3 +16,4 @@ C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck
 C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.genruntimeconfig.cache
 C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\ref\FitCheck.dll
 C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.Properties.Resources.resources
+C:\Mac\Home\Documents\GitHub\FitCheck\FitCheck\obj\Debug\net8.0-windows\FitCheck.UserControls.DashboardControl.resources
