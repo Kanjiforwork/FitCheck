@@ -51,7 +51,7 @@
             // 
             // button1
             // 
-            button1.BackColor = Color.FromArgb(5, 217, 157);
+            button1.BackColor = Color.FromArgb(55, 56, 60);
             button1.BackgroundImageLayout = ImageLayout.None;
             button1.FlatAppearance.BorderSize = 0;
             button1.FlatStyle = FlatStyle.Flat;
@@ -67,7 +67,7 @@
             // 
             // panel1
             // 
-            panel1.BackColor = Color.FromArgb(5, 217, 157);
+            panel1.BackColor = Color.FromArgb(55, 56, 60);
             panel1.Controls.Add(button7);
             panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(button6);
@@ -86,7 +86,7 @@
             // button7
             // 
             button7.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            button7.BackColor = Color.FromArgb(5, 217, 157);
+            button7.BackColor = Color.FromArgb(55, 56, 60);
             button7.BackgroundImage = Properties.Resources.image__1_;
             button7.BackgroundImageLayout = ImageLayout.Zoom;
             button7.FlatAppearance.BorderSize = 0;
@@ -113,7 +113,7 @@
             // 
             // button6
             // 
-            button6.BackColor = Color.FromArgb(5, 217, 157);
+            button6.BackColor = Color.FromArgb(55, 56, 60);
             button6.BackgroundImageLayout = ImageLayout.None;
             button6.FlatAppearance.BorderSize = 0;
             button6.FlatStyle = FlatStyle.Flat;
@@ -129,7 +129,7 @@
             // 
             // button5
             // 
-            button5.BackColor = Color.FromArgb(5, 217, 157);
+            button5.BackColor = Color.FromArgb(55, 56, 60);
             button5.BackgroundImageLayout = ImageLayout.None;
             button5.FlatAppearance.BorderSize = 0;
             button5.FlatStyle = FlatStyle.Flat;
@@ -145,7 +145,7 @@
             // 
             // button4
             // 
-            button4.BackColor = Color.FromArgb(5, 217, 157);
+            button4.BackColor = Color.FromArgb(55, 56, 60);
             button4.BackgroundImageLayout = ImageLayout.None;
             button4.FlatAppearance.BorderSize = 0;
             button4.FlatStyle = FlatStyle.Flat;
@@ -161,7 +161,7 @@
             // 
             // button3
             // 
-            button3.BackColor = Color.FromArgb(5, 217, 157);
+            button3.BackColor = Color.FromArgb(55, 56, 60);
             button3.BackgroundImageLayout = ImageLayout.None;
             button3.FlatAppearance.BorderSize = 0;
             button3.FlatStyle = FlatStyle.Flat;
@@ -177,7 +177,7 @@
             // 
             // button2
             // 
-            button2.BackColor = Color.FromArgb(5, 217, 157);
+            button2.BackColor = Color.FromArgb(55, 56, 60);
             button2.BackgroundImageLayout = ImageLayout.None;
             button2.FlatAppearance.BorderSize = 0;
             button2.FlatStyle = FlatStyle.Flat;
@@ -194,7 +194,7 @@
             // 
             // panel2
             // 
-            panel2.BackColor = Color.White;
+            panel2.BackColor = Color.FromArgb(51, 52, 56);
             panel2.Controls.Add(label1);
             panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(230, 0);
@@ -204,9 +204,9 @@
             // 
             // label1
             // 
-            label1.BackColor = Color.White;
+            label1.BackColor = Color.FromArgb(51, 52, 56);
             label1.Font = new Font("Segoe UI", 16.125F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.ForeColor = Color.Black;
+            label1.ForeColor = Color.White;
             label1.Location = new Point(20, 9);
             label1.Name = "label1";
             label1.Size = new Size(325, 59);
@@ -215,7 +215,7 @@
             // 
             // panel3
             // 
-            panel3.BackColor = Color.FromArgb(245, 245, 255);
+            panel3.BackColor = Color.FromArgb(51, 52, 56);
             panel3.Controls.Add(panel5);
             panel3.Controls.Add(panel4);
             panel3.Controls.Add(memberPanel);
@@ -224,10 +224,11 @@
             panel3.Name = "panel3";
             panel3.Size = new Size(1531, 808);
             panel3.TabIndex = 4;
+            panel3.Paint += panel3_Paint;
             // 
             // panel5
             // 
-            panel5.BackColor = Color.FromArgb(5, 217, 157);
+            panel5.BackColor = Color.FromArgb(68, 68, 68);
             panel5.Location = new Point(946, 16);
             panel5.Name = "panel5";
             panel5.Size = new Size(418, 156);
@@ -235,7 +236,7 @@
             // 
             // panel4
             // 
-            panel4.BackColor = Color.FromArgb(255, 90, 131);
+            panel4.BackColor = Color.FromArgb(255, 102, 46);
             panel4.Location = new Point(491, 16);
             panel4.Name = "panel4";
             panel4.Size = new Size(418, 156);
@@ -243,7 +244,7 @@
             // 
             // memberPanel
             // 
-            memberPanel.BackColor = Color.FromArgb(97, 102, 245);
+            memberPanel.BackColor = Color.FromArgb(68, 68, 68);
             memberPanel.Location = new Point(35, 16);
             memberPanel.Name = "memberPanel";
             memberPanel.Size = new Size(418, 156);

@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\usercontrols\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\fitcheck\\usercontrols\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\usercontrols\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,8 +23,16 @@
       "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\usercontrols\\dashboardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\usercontrols\\dashboardcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\usercontrols\\dashboardcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\usercontrols\\dashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\usercontrols\\dashboardcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|c:\\mac\\home\\documents\\github\\fitcheck\\fitcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64251AB6-4AA6-495A-A3DC-50E7C4413F64}|FitCheck\\FitCheck.csproj|solutionrelative:fitcheck\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,62 +42,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "DashboardControl.resx",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.resx",
+              "RelativeDocumentMoniker": "FitCheck\\UserControls\\DashboardControl.resx",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.resx",
+              "RelativeToolTip": "FitCheck\\UserControls\\DashboardControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-09T05:39:17.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DashboardControl.cs",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.cs",
               "RelativeDocumentMoniker": "FitCheck\\UserControls\\DashboardControl.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.cs*",
-              "RelativeToolTip": "FitCheck\\UserControls\\DashboardControl.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBMAAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.cs",
+              "RelativeToolTip": "FitCheck\\UserControls\\DashboardControl.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T04:11:48.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DashboardControl.cs [Design]",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.cs",
               "RelativeDocumentMoniker": "FitCheck\\UserControls\\DashboardControl.cs",
               "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.cs [Design]*",
               "RelativeToolTip": "FitCheck\\UserControls\\DashboardControl.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T04:11:30.046Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-09T04:11:30.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "FitCheck\\Form1.Designer.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.Designer.cs*",
-              "RelativeToolTip": "FitCheck\\Form1.Designer.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T02:14:56.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.cs",
-              "RelativeDocumentMoniker": "FitCheck\\Form1.cs",
-              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.cs*",
-              "RelativeToolTip": "FitCheck\\Form1.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAlwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T09:05:04.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.cs",
               "RelativeDocumentMoniker": "FitCheck\\Form1.cs",
@@ -94,6 +90,56 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T10:54:32.095Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.cs",
+              "RelativeDocumentMoniker": "FitCheck\\Form1.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.cs*",
+              "RelativeToolTip": "FitCheck\\Form1.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T09:05:04.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Models\\Package.cs",
+              "RelativeDocumentMoniker": "FitCheck\\Models\\Package.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Models\\Package.cs",
+              "RelativeToolTip": "FitCheck\\Models\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:45:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardControl.Designer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.Designer.cs",
+              "RelativeDocumentMoniker": "FitCheck\\UserControls\\DashboardControl.Designer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\UserControls\\DashboardControl.Designer.cs",
+              "RelativeToolTip": "FitCheck\\UserControls\\DashboardControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T05:39:17.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FitCheck\\Form1.Designer.cs",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\GitHub\\FitCheck\\FitCheck\\Form1.Designer.cs*",
+              "RelativeToolTip": "FitCheck\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:14:56.918Z",
+              "EditorCaption": ""
             }
           ]
         }
